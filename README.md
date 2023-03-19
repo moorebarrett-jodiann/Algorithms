@@ -18,7 +18,7 @@
 - Capitalize the first letter of every sentence in a sentence.
 
 #### Fibonnaci
-- Check out the `[Fibonacci Sequence](https://en.wikipedia.org/wiki/Fibonacci_sequence)`.
+- Check out the [Fibonacci Sequence](https://en.wikipedia.org/wiki/Fibonacci_sequence).
 
 #### Fizzbuzz
 - Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz". Instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
